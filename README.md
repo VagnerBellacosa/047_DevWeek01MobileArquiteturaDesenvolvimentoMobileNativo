@@ -14,3 +14,4 @@ Full-Stack Básico ESPECIALISTA
 #### Karol Attekita
 Engenheira iOS Senior, Itaú Unibanco
 
+https://web.digitalinnovation.one/lab/dev-week-1-mobile-arquitetura-e-desenvolvimento-mobile-nativo
